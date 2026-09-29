@@ -1,5 +1,5 @@
-6e4d159152cbeccdd92babef8267195254afb3404931f6cacaecbdea6cb198b0  .gitattributes
-b0be1efa269ca07819e9792c0519a66ccf4a076e4a10310bee3d28ef6e510a84  .gitignore
+f12034f8223ef5df583831280efd48f791fa7c4caa5540c6930c5ada7ff59bb5  .gitattributes
+d6439973d8a506f44142877efa1b34b8f7d904803a04bf61a03ab338883a8e2c  .gitignore
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  .nojekyll
 3a78d2fa040c029ed861ce13c74a71f4fe46a6bb3c7800efd226e5aaab497f6c  01-foundations/0001-read-the-board-before-choosing-a-move.pdf
 858d61c39cba68e66a3a019bd6b61ff00e9296a8671e412e5294a9a405c98287  01-foundations/0002-coordinates-make-analysis-precise.pdf
@@ -21,7 +21,7 @@ fe69aac23115f1762fc398469b45ba83ea991b38cd28371681cf54e8aaa1eb26  01-foundations
 f4a2853289844b102873a95dcbcbba15d45f4678268710f5a33c6f0637a80b7c  01-foundations/0018-distinguish-a-threat-from-a-wish.pdf
 726592788422c7c44e4422d1368bd24dd061a6f7e63b545fcba468c2093d3686  01-foundations/0019-the-game-changes-phase-gradually.pdf
 609cde9d99788cc52a4b371e393d70e2cc2148fbd8eb796dfe950c5559087364  01-foundations/0020-build-a-complete-move-habit.pdf
-6a3cb4c13f52ab54ce67e1a64a8de61aee6ee36a9e7b669abe497c6c48e102ac  01-foundations/README.md
+5643cb68563a3f35b7c43d29a3bf8e4b15475cbe09178dd14dcf8ac48671404b  01-foundations/README.md
 c2859c2822e840d26d42463b621bd79665092321deb3b014db6142d002c825a7  02-chess-math/0021-chess-math-count-the-whole-exchange.pdf
 88c5f1cb53d060fd99428d5c8cb0eff5157879f1373d2bcca8ca244348279da2  02-chess-math/0022-captures-can-hide-a-negative-sum.pdf
 96462afad07bec184eb2030cb36948f814ded4b48e106709a9ed32af96bab782  02-chess-math/0023-count-attackers-and-legal-defenders.pdf
@@ -42,7 +42,7 @@ be95e9454df70f61635e1ef2742d0dc339ab4f6ae528f81f34003c56927903bd  02-chess-math/
 5fddfd08abe1516574e42d11c76837b323630c9d954c4c8a3489f81a71db3823  02-chess-math/0038-training-percentages-need-denominators.pdf
 db6b243a0a82b0d363c5b1dec34be833470b3da9db45962e49c0b9a68ffebf62  02-chess-math/0039-allocate-study-time-with-a-purpose.pdf
 e016b3d7dfe4ad4db774675c8314c51942dd83bca5ef05ae98a0d89a65da7ac8  02-chess-math/0040-separate-evaluation-from-certainty.pdf
-16e08d21548a1610d247243b0eee55984cc392750ca4b80c68483e9b82c92645  02-chess-math/README.md
+e79fbbf94285519394b1a3744e138e3f3de3b57332638eeff91dd3e249840ef2  02-chess-math/README.md
 e75ce3534aeb2591d064b22a288adf0b0f65e32db8116161f76130488de3666a  03-opening-decisions/0041-when-to-learn-chess-openings.pdf
 f843aacb672e7715d602c9e298673e9dcb2c88ee227d873dcf8464b2cddc320f  03-opening-decisions/0042-build-a-small-usable-repertoire.pdf
 3e535609d6ebd82763af95a1f8fa96f3ec872b8d73718c32f5f085c80502aff7  03-opening-decisions/0043-develop-with-a-job-in-mind.pdf
@@ -63,7 +63,7 @@ c5c700df7f5742005524c892352e22daddc669ab948ee6b581902aba944ad736  03-opening-dec
 22f1f71470ce10e95cd15969a432cd0635167af8c516b739d1d315c6043fed3c  03-opening-decisions/0058-fianchettoes-need-diagonal-awareness.pdf
 7115655c17bfa37d87dc88657d4c61b63c9820c67f266373564c56ea8c845457  03-opening-decisions/0059-traps-are-lessons-in-causes.pdf
 9f756ff58f0c18d0b8c3c3ba0852010f8c91e19b07a0eb7b76defc721619e9a1  03-opening-decisions/0060-repair-your-repertoire-from-your-games.pdf
-809e4a25db770810569dcc9a8658faff69b869b44e0bef2c3ede499e039fd0db  03-opening-decisions/README.md
+d2e7842f9a90a86aa37eeeb41ab2ef65017d6c7fea625d54c1b3a0aac49cda6a  03-opening-decisions/README.md
 98b281acb51ffa2a8927589011721878bb5bc8981a7c0f6b471036149077a372  04-positional-judgment/0061-improve-your-worst-piece.pdf
 a43c1b967c29f2a1641549eb466efbabf3edaa23d697732cdabb06d635c0b054  04-positional-judgment/0062-an-outpost-must-resist-pawns.pdf
 e5d0c0c1bcb2f5a91d871866c889b3f4ec24445b165f3ac55117f1ba6369aa88  04-positional-judgment/0063-trade-a-bad-piece-for-an-active-one.pdf
@@ -84,7 +84,7 @@ a81187060e4dfb541599b4732132762de88107e1ac5f9f93e31985e46d209cbc  04-positional-
 a0f1c07cc9106617fca96c0b7085edc45361f641a9cacc888c1969629b6fec10  04-positional-judgment/0078-exchange-when-the-ending-suits-you.pdf
 db3bfc53e9a2b9f64b2168f3bd1e5047aa3c26597217d5437c3ce59d2a67a03e  04-positional-judgment/0079-an-initiative-must-become-something.pdf
 6f9f7d96c1d3312c4ff60d1202e0b230eb71dbc996060a6535e452855bf84525  04-positional-judgment/0080-make-a-plan-that-can-change.pdf
-a60ad4b1f497c999acd9a4f260a8645dc8bc398236aaf8d275963255e6fea366  04-positional-judgment/README.md
+80b743a9bc2007a054d00c493e930db440d36339bb54edd1acd8c1befbd4268c  04-positional-judgment/README.md
 870b95fd19d21f55799419f18137c8e1ccd95637e38adbb251773391aac425ec  05-endgame-technique/0081-activate-the-king-safely.pdf
 66b611a44a8490f9bda7ee8e57ce4141c6ae3fb92f33d175fe8b6389be565434  05-endgame-technique/0082-opposition-is-control-of-entry.pdf
 2116650bff9053c032f257fa8c8a989a8fcff08b27b3a207d8a5f2232e9c2969  05-endgame-technique/0083-distant-opposition-is-about-timing.pdf
@@ -105,7 +105,7 @@ a205994aa63721c4b7e49b0068122c88c09ac0e4403d9a6fa6197aa6c5568bd7  05-endgame-tec
 5790d7bf2a7e6758f8f233478559344573189eaefb9315a7c25195a201ba4321  05-endgame-technique/0098-queen-endings-demand-perpetual-check-awareness.pdf
 bf8dcb7eba34732a6a63e9d1a9e6f389f136418224d34601d5a6391715ab6a03  05-endgame-technique/0099-convert-with-the-enemy-counterplay-in-view.pdf
 5367afd2ce6122b1a6a72de041f6b1a236664a6c464de233f2a43cb096044943  05-endgame-technique/0100-know-what-you-are-trying-to-hold.pdf
-451aed43a9b495912d61c4c7f4462707db7c15b7a1e5a6224a6c4766ec62c1bd  05-endgame-technique/README.md
+e00dbd2a76bc7fc8c74db2522d7faae39bae3e8b5cd41a04ffe3ff90cf68fbb4  05-endgame-technique/README.md
 de66fbb19ad8e9e55461ea4b73015209bee47c4457c907113af2481b0ad697b0  06-thinking-and-training/0101-generate-candidates-before-committing.pdf
 bf40642412b3c71507e0a75fb1c8b076f3f482f3f9cee248a75bdac0414596c1  06-thinking-and-training/0102-checks-captures-and-threats-form-a-scan.pdf
 4dd225395719cc910f27e0c11d425eefc43c0ebbb91d8b38ba81d40df623e5ed  06-thinking-and-training/0103-calculate-the-opponent-s-best-resistance.pdf
@@ -126,7 +126,7 @@ d303ecac8c8e6ba87e6d1409009b537e0e4762e8311dbc2fe5cda41e443e8c88  06-thinking-an
 2c3ba089f0ba59fa76a28e3a2a8ac5b2218505b56f63ac11746bfb3bd5745436  06-thinking-and-training/0118-solve-for-the-whole-line.pdf
 a748722479b8607085fe2fd0023d2f59d355a5aab6fdb0cac8b19469166de51d  06-thinking-and-training/0119-space-repetition-around-genuine-mistakes.pdf
 aacfe79d14b6e337063266b5fcd8a12c854580df005f5ae8ad14ed3b8942d4fa  06-thinking-and-training/0120-turn-each-lesson-into-a-game-habit.pdf
-87fb98d0bf27aabd69fe44f6cf79f51ba5ccd67e1ff5483417248d49cfe8eded  06-thinking-and-training/README.md
+0f469a9e5a5f08548399192047487e961c2e044f1d5e3fba5f47e8741bdb1d57  06-thinking-and-training/README.md
 27abf0cdf1f69da1b9678f3bf9c4358ebcbf3aa3d13d832707cc16443bbbaddf  07-mate-in-one/0121-mate-in-one-black-move-16-004yJ.pdf
 12326dd47620a6b5bd375ef6f41df9f4bd50f35201fd17036d69368a0f400088  07-mate-in-one/0122-mate-in-one-black-move-18-00656.pdf
 ee1981ec2477bb9dacb05bb4405d2af66054cd0d37844d677069cc4194be5a54  07-mate-in-one/0123-mate-in-one-white-move-26-00CYP.pdf
@@ -207,7 +207,7 @@ eaaf5643c03c2d9785c0a7a83496be6ea17bbe37b8f52f8e7f28476e8bad243f  07-mate-in-one
 e88562008e615ce4e3542eb2efdb7541b0a48b9ef8944f044b2d6fb1fe729b9d  07-mate-in-one/0198-mate-in-one-black-move-46-00Qqp.pdf
 b8fb351b1585b2b19249f6d3f56f6ee278327a030360c1e71fffd86d5bd6299b  07-mate-in-one/0199-mate-in-one-black-move-43-003IX.pdf
 e5de9ada54dc95b0eb3c71646b7c92bf9d8b21b39c214ac8b83a72a9e70665f8  07-mate-in-one/0200-mate-in-one-black-move-60-00VIe.pdf
-36fcddb80cf02c196a89775ab7edc6f729f0422aaa787679ebdf8b67b3f8aefb  07-mate-in-one/README.md
+e852e63e662cedeed058214d75bdb8c01a7d41f9828c12f7c96813a5b4fecd36  07-mate-in-one/README.md
 e63385dea70320e9f7b758a92f9030aa8105d79a6fa0d875574bb11a93111706  08-mate-in-two/0201-mate-in-two-white-move-32-008GK.pdf
 e887d62b39ba81e69c84c863082f86482d4eb24e9ecdbee2011bd2ac14ccc57a  08-mate-in-two/0202-mate-in-two-black-move-28-00dYE.pdf
 c28ab7900bfb959e703461bd307d4678445839612c2c96f412702a95de810e9f  08-mate-in-two/0203-mate-in-two-black-move-3-00SLR.pdf
@@ -288,7 +288,7 @@ d7027c4d6e38cfaf1ce248c425c63e110fe019c001b78a0b9d2e0065840b3813  08-mate-in-two
 74167d398aa40a472e3090e6c312ec78f1f58ee18b011a4229cb15b044714574  08-mate-in-two/0278-mate-in-two-white-move-25-00Se9.pdf
 adae382fbbca649fa523310a61423239b8b9f58f3afa54f06778ca30e036ca9a  08-mate-in-two/0279-mate-in-two-white-move-25-00NEO.pdf
 8afbd96c83ca061b6922e63ee98ee916d5e5325faef90af96538e6eba2538b7b  08-mate-in-two/0280-mate-in-two-white-move-15-00JsQ.pdf
-f7398d28cf117f5bcee41aeb356cee9d50709057e31262a91d515b059e98e738  08-mate-in-two/README.md
+259ca0b50e95096ce2664c7feb0985ba223a1ace060fbf77e100ecb30bc68803  08-mate-in-two/README.md
 f4f269f2f4bb221095ca398e8d7148b5a09ced407cfd8d2bd002fcbff21d2221  09-mate-in-three/0281-mate-in-three-black-move-27-01Dtr.pdf
 5511305d2fa56d644b93ef17ca2abbf3640afa20f7434eb8ea230af5cf8fd417  09-mate-in-three/0282-mate-in-three-white-move-25-00hgt.pdf
 1e9efa1ea8560d93c8ca343141a4775a58167522299e68d018a79bace715455e  09-mate-in-three/0283-mate-in-three-white-move-36-01rQs.pdf
@@ -369,7 +369,7 @@ cfafda7e11dd7d5ddd5ec7c136a380b3c1fb4de04347d9dfe07bfde702858d6f  09-mate-in-thr
 462210532a431978f0de2bc175ca5df3f965a4dbe9245fe40d95a7988cb50d7a  09-mate-in-three/0358-mate-in-three-black-move-45-019gx.pdf
 86dd4bfe0de3da75640116e44de860f3458bfcdf7c125d84244ba15a80af9c1e  09-mate-in-three/0359-mate-in-three-black-move-35-02YAB.pdf
 ff11eed501231f1f068122d80e8bfcc1d8641b0ca0befd6f2293dc035ee74b75  09-mate-in-three/0360-mate-in-three-black-move-34-00nsa.pdf
-e93f9290db2734d78082fbcec76ed4433a03cacf28066d4e2183a60cd2202344  09-mate-in-three/README.md
+b560f7956117a9b2871a88c095267a7379f6cb46b13ef95f88367c0892706cf0  09-mate-in-three/README.md
 d9768618e905672bdc35d200ddb2c5a0ecdd5a5ad4d9f3da082e9519ff525817  10-back-rank-mates/0361-back-rank-mates-white-move-17-05R0l.pdf
 d381c7edc226611c4ba45f5ee7c8be629c26196b6a720d2a672e225018528b02  10-back-rank-mates/0362-back-rank-mates-black-move-11-00zVd.pdf
 957456c5a3f4fb507ee98ad4a06ea36102b94138f83002798154a517745471bf  10-back-rank-mates/0363-back-rank-mates-black-move-37-02aw9.pdf
@@ -450,7 +450,7 @@ be46b3f428db8075e1194be146cf803100fbcc30c92735b66bf9cc56f30dace2  10-back-rank-m
 efb86d9cee8955514fae5b8a1fd81e40deae41aa3f5c6fc155fa467c4bf6cb56  10-back-rank-mates/0438-back-rank-mates-black-move-20-03XcA.pdf
 d6330d0525c9b9e20b058098bc3b9be0c3d8347c58e1dce708d841fc8287eb1d  10-back-rank-mates/0439-back-rank-mates-black-move-32-00O9Z.pdf
 396bf9c310a6a339203528c504bd6eb83f546bd7652b43d56a56c1d1b27d2113  10-back-rank-mates/0440-back-rank-mates-black-move-27-05Ryc.pdf
-d3324e357d07cd42de2f3ef238a23e4684cb21fb910d2635eadaf5a1c90b060d  10-back-rank-mates/README.md
+855cb8abb5cd0dd2856b4336a8889d3a240762fa8af9b84f52121647a6adac16  10-back-rank-mates/README.md
 a071a01a05f1ecf359de9dfe91ad02ff508e5d2e28313d09aaf4bb026b68cf27  11-smothered-mates/0441-smothered-mates-white-move-22-05HWB.pdf
 fc280bcd98e9d923579861c1f5c1e6d9b1349d710362ead95d138e91bac81771  11-smothered-mates/0442-smothered-mates-black-move-22-00A9Q.pdf
 d459440b69c61d40433555b7736566a6b233b4fa97084fc6ca5af96a1f3bf6be  11-smothered-mates/0443-smothered-mates-white-move-11-099D3.pdf
@@ -531,7 +531,7 @@ fce8a6b23eca495457f45d38daef32e7f37197ce89f8d458907ef1e2c0fdfe2b  11-smothered-m
 f776957110196bdd924fdc16ac3bec1293a4616cc5bea8d0eea3b90e067228c8  11-smothered-mates/0518-smothered-mates-white-move-18-0Di6g.pdf
 9947859a8c273e448b125b056a47c8ebbd7f6327c7b42572d233791ec8b2237d  11-smothered-mates/0519-smothered-mates-white-move-26-01oma.pdf
 00948512bc5093775ab9a82985f32a88e0d29f64af29a64d5d0b2cdfa06fdd38  11-smothered-mates/0520-smothered-mates-black-move-16-0BSZ7.pdf
-686fb1f97beae4ef9355d8b47a53202e4be453aac634a45074b8c61b197e0587  11-smothered-mates/README.md
+0688dc82253fb7008970931199223f5846e622e1d0a2978135ec680f76b61953  11-smothered-mates/README.md
 d693fafcda60023a1cfae087de076c7ddba4e751e60a12417e666e1af932da69  12-anastasia-mating-nets/0521-anastasia-mating-nets-white-move-18-0MyW7.pdf
 0d3276c919eb1ca2d8fb9c52936f14b4598199334859be7a349d5740a1f8bf29  12-anastasia-mating-nets/0522-anastasia-mating-nets-black-move-36-07qu9.pdf
 32032ef4cd7b9e7641158503e04a9b62f143560d73be543a87ed70937aadfcb7  12-anastasia-mating-nets/0523-anastasia-mating-nets-black-move-48-0s80I.pdf
@@ -612,7 +612,7 @@ ac51e6892b15c8718ad19a21e17df6db555a3bd5183b34871ca332d33bf8f544  12-anastasia-m
 519f2e0fe677560722da1667035e7fb85f377b7635c06d58ccac10919cd63f4e  12-anastasia-mating-nets/0598-anastasia-mating-nets-white-move-19-0MAkP.pdf
 7e5facddb55f4b2b2dc637afec8326beff8886281cf68b106398ca8f677d399d  12-anastasia-mating-nets/0599-anastasia-mating-nets-white-move-20-0bh9U.pdf
 556a796c75bbcefd0a24e4b661d49a540707fb3eb494a47b2ebbe8dd280d14d1  12-anastasia-mating-nets/0600-anastasia-mating-nets-white-move-17-0SITb.pdf
-2ee3a4d5e43ddbe1f8d9f11227ba8f684c9c1a480c7db6df8eaeae807f46cfff  12-anastasia-mating-nets/README.md
+4a6ab12fd9d65fe4e4031fef577ae9cd4ee6faa6bdea58296e932a23c3b564f9  12-anastasia-mating-nets/README.md
 509be4429045a65ada3a279445bf373b8f750d1d52f35fdfd280d8861eaa576f  13-arabian-mating-nets/0601-arabian-mating-nets-white-move-32-05gec.pdf
 6c2d1352ca35dc282eee20a7279c9fbb545e2af0ec5fe00cea1a8820f30e9267  13-arabian-mating-nets/0602-arabian-mating-nets-white-move-39-0NgEL.pdf
 2c98d4472e6edfc71ada6e3324e22d4d54d229309667d9356d801421d23081f5  13-arabian-mating-nets/0603-arabian-mating-nets-white-move-23-0J9yJ.pdf
@@ -693,7 +693,7 @@ c32a52bed81664da1bb1d511b3eac27007b6860e3ab2c99cb368df75ba991e66  13-arabian-mat
 21b4c1cd35cc3d1c758b73d0e75dfba4abe0f3f78e6904c3b93f99ecfd848de9  13-arabian-mating-nets/0678-arabian-mating-nets-black-move-28-0Hrgt.pdf
 d6afc59d1fd634d0389a2227ef6cd6c066ac4f627a0187271aaac471e8013945  13-arabian-mating-nets/0679-arabian-mating-nets-white-move-39-0VByB.pdf
 e8d83dd1fbd8d64e8362eb5167e1078ab75c1635ba49fba4069a8e88ff00b305  13-arabian-mating-nets/0680-arabian-mating-nets-black-move-54-00dt1.pdf
-a00cbb305d31fe0d8e2bbd9a32e9cac47df83bea11c978dc5646b91a2f796b79  13-arabian-mating-nets/README.md
+0025d4d4271dac5d2eb5710f69fbfb01e3b6637b32fb259f097cadfc51f410d8  13-arabian-mating-nets/README.md
 b13570f20fac662fe9e45933e7514a7a1e6321e67cc7696ff558e4692d4f0e73  14-hook-mating-nets/0681-hook-mating-nets-white-move-28-0ZCNy.pdf
 ac120cefd4837c2718f749024a9cb753bc0da775e4326057db0bc7e67d8b3189  14-hook-mating-nets/0682-hook-mating-nets-white-move-41-0LSuK.pdf
 114b4464074516aca339cc6e32ba1e3090976bad10e498361c0a07296d122cb0  14-hook-mating-nets/0683-hook-mating-nets-white-move-59-0Ymg6.pdf
@@ -774,7 +774,7 @@ bf766463a0ab7e6dae9cd8ab77aada739ffa54cfc14d5478a22d50940a1dbe6b  14-hook-mating
 31e808a058a8c413dec5bcda2e0057a0e1a71f09d7cd2754fb4f4412cd7ade49  14-hook-mating-nets/0758-hook-mating-nets-black-move-21-0ClVy.pdf
 35dae6dc137ea134cd4f5042d9b48616b6f6049dd27dad680dea44fcddc1335a  14-hook-mating-nets/0759-hook-mating-nets-white-move-26-0KuxT.pdf
 2b709ede168d1150746b746422aeeaf0e890395f64a302bad8810df50fec214e  14-hook-mating-nets/0760-hook-mating-nets-black-move-26-0HNu4.pdf
-0f1f1d1a1fb8495121c687546f4ad78435b3b9da3ba0b60ff0a098e463d6cd28  14-hook-mating-nets/README.md
+6d76bdfcd41ad7ec9a7838c697919fa9cd4d0e2a5bb3221bed6286997cd33b6c  14-hook-mating-nets/README.md
 94f46d18b2fdef56d713779958717b53d9c4b9b9c6de1b4866acecfb26dd8e48  15-forks-and-double-attacks/0761-forks-and-double-attacks-white-move-41-00Bn4.pdf
 53a72f16cc7b25100d7c55f396c174a1de5079c282457ea8bdfcb02ab0c59560  15-forks-and-double-attacks/0762-forks-and-double-attacks-black-move-26-00Ui0.pdf
 463222d7d1a3c0f7329c66937a92192b3df993b928a33e5e0d33dde1e671f25c  15-forks-and-double-attacks/0763-forks-and-double-attacks-black-move-35-008P4.pdf
@@ -855,7 +855,7 @@ ad7a44c0462cc9b2774ccae9936c99b77c95f8095e4e5df6f93dc57b311447de  15-forks-and-d
 9d239936b893e70dd05a9573bc3dcb16a57b98f2ed8b29195c27553a5b879be3  15-forks-and-double-attacks/0838-forks-and-double-attacks-white-move-23-00YYk.pdf
 b30507235ad1b923232847fd54032e434d099941ff0fd2496052112ab0e7a344  15-forks-and-double-attacks/0839-forks-and-double-attacks-white-move-10-00LZl.pdf
 aea72d1922bfbdf354c0292e473938d368d0eabb322d55df3daa304122f08b56  15-forks-and-double-attacks/0840-forks-and-double-attacks-white-move-26-00Gz6.pdf
-c748a0ff9433930e122528585cb6754d7d81e34c9e05918c04d1716d0cf8ff33  15-forks-and-double-attacks/README.md
+ce1b48b8fa7052a554a487e98efa6d25ea85b9e633c7edd4636f463ebab2b9d4  15-forks-and-double-attacks/README.md
 5c197cb8e60e6d05131aaab668277a431d91ff74059cb95e74cfeee0c7541314  16-pins-and-pressure/0841-pins-and-pressure-black-move-21-0162G.pdf
 0f0b1e126074f60853a59c7569a6d9a77e438fae1e3ce4f4ef8ca1c076413185  16-pins-and-pressure/0842-pins-and-pressure-white-move-19-01gQ1.pdf
 78a4954c8c45406af38f8af2d767a3564c7f4326fd61a2d5a74904e9eec9f992  16-pins-and-pressure/0843-pins-and-pressure-black-move-17-00XL2.pdf
@@ -936,7 +936,7 @@ ab1378225a2eb72e441f31fe013bab6126bd442b2ac0365bfcdf109177f3bf0c  16-pins-and-pr
 0de343ffe1fae23d805b79edd99feefa2fede25d42cce73194b50ae8195db367  16-pins-and-pressure/0918-pins-and-pressure-black-move-30-00k5U.pdf
 6ba0c3eacb0ab3ce22880ddac1afb789bc58eea1fa3cff7d898dac86883f1fb8  16-pins-and-pressure/0919-pins-and-pressure-white-move-26-01bxe.pdf
 8b9c0afc9617be20942d6212a8a92c0e2615c5862b3702d40edff8317b9eb154  16-pins-and-pressure/0920-pins-and-pressure-white-move-18-006XF.pdf
-38f930763c4f47f0764b66cfe3085e5e7ea48e1ede18a3b6d54b504e95f744cf  16-pins-and-pressure/README.md
+024cc61caaab808e9eecef924f71ac0724bca715936134c65e9df574d3285eb2  16-pins-and-pressure/README.md
 cc2edf3174446ce7f0210cb86626d47ea98bdaf1d4a9211e4b0828a69aab8a81  17-skewers/0921-skewers-black-move-46-03Cnf.pdf
 7e247860182de0dd91399c68710182975283a859acfcb056e778bf20f13a51ac  17-skewers/0922-skewers-black-move-28-01xzs.pdf
 b3267be199d91bdb27bb02e940a8b89224cffbb560d5750f9f5f4c4a002b20d0  17-skewers/0923-skewers-black-move-41-0135c.pdf
@@ -1017,7 +1017,7 @@ d8890b5071636e58b3d9fa1e011a547bf8ee8b3c154065b9cdfa72221efaa419  17-skewers/099
 a5c1bacb8406e59458e82a3ff43e159d892f2e1bd016f95f7267134b68b1497e  17-skewers/0998-skewers-white-move-41-00bQA.pdf
 9ea92b51a282c72b538b7e6785420d09e2057ab49950163af9509304e8ecd62d  17-skewers/0999-skewers-black-move-26-004Op.pdf
 9962bf9ddde9d226f35fd41c2332151acc0b3cadbb69c7b14e52b6b0224f2336  17-skewers/1000-skewers-black-move-25-01CmR.pdf
-acb5998b87516cdb692823e5167d049b7b72d0ddd1f8b3abda3a4f6682c4caab  17-skewers/README.md
+d34fab6c006bc490aa1d0461e914a1fc3831ad03424c4374084bd20e92ce499e  17-skewers/README.md
 50e9a1415cc116e4faee42178bc02c9d607ac2d26fb78f5c51fb7601b1d132e0  18-discovered-attacks/1001-discovered-attacks-white-move-43-01wTd.pdf
 120a7fbe6f03f5006ba95e24b89e7c8f594ea25d473aaa42c41bffc2ba274b78  18-discovered-attacks/1002-discovered-attacks-white-move-21-00mvr.pdf
 9fdd27fb8bb674c6f8cd78e8a1c4c29b23ffdb9bf4ed4d88481873ed15261787  18-discovered-attacks/1003-discovered-attacks-white-move-15-01y4w.pdf
@@ -1098,7 +1098,7 @@ e55490aff6f5873795ae19cb96d7718cecab753c190af3bf1ed089b125be6e60  18-discovered-
 111ac7f26ba1f3adde3249b035c43b8907aec52952b3defe7e3bf7d86e2727bc  18-discovered-attacks/1078-discovered-attacks-black-move-15-00oOp.pdf
 800b1e1e8d88ad3878119c33b705d3182d8325bf2bcd93cc342f25824c4cd6cc  18-discovered-attacks/1079-discovered-attacks-white-move-31-01jRL.pdf
 a217ec7ab577f0797d17c513b0254cb8f13c60d5d1838cfd218945f940b62cfb  18-discovered-attacks/1080-discovered-attacks-white-move-24-00SlL.pdf
-54040b6b1b3be6a0b3fbf0ccd3a6c2d4203ff81b79ae3cd0b2e434dd0d42b5ad  18-discovered-attacks/README.md
+da9ca08e0180f07ab6c5543885bb3540466a5d1fa455d46d4340ac4ad3711fee  18-discovered-attacks/README.md
 29c93b872b5cff6a966b5b9dc80835e61c6918a581447de257ada95466a7a939  19-discovered-checks/1081-discovered-checks-white-move-37-02THe.pdf
 34e458564f1bea98bb7fd6c7f4f6ad82558f69c7644b2e0e796124a3cc11b1a8  19-discovered-checks/1082-discovered-checks-white-move-23-00GBX.pdf
 1f1e7ff938137cbfa13c40906b17e46f50dab3871e4486c5f4f41024bb603bce  19-discovered-checks/1083-discovered-checks-black-move-16-03oqC.pdf
@@ -1179,7 +1179,7 @@ c3022f82fe9f936c7200e819501a64c91d773ad6572570d8e5818e81cb24bed2  19-discovered-
 0b47901d034d03688c1eae8674fe3623b1374cb109da5a0644d4be442fb65e7b  19-discovered-checks/1158-discovered-checks-white-move-14-00sys.pdf
 32edaaa3e2d083f4486ef89a52c2e90b890ec0aba6d7b0384c40a9c63d71bd5c  19-discovered-checks/1159-discovered-checks-white-move-47-00P81.pdf
 d464dae396b5dd225d3cddd1539a6b1cef2b8315d036c076763c3a4068becb96  19-discovered-checks/1160-discovered-checks-white-move-14-02nDq.pdf
-178028f4d804a8255e51d159953b7966fdc2c2657a8531f5c700de99cfcfdeda  19-discovered-checks/README.md
+6d46d11a22c35e6a4f24a529485a468de1ecbb1bd9d16edfb33cecc48e5da899  19-discovered-checks/README.md
 f669a3d6a6f1d9affe714e32c5154cf56b4a3357701e905b12daef762d692bc6  20-double-checks/1161-double-checks-white-move-10-08XzM.pdf
 b6e30020ec70f5f2089c52dd42a06707de618f604c52240ad9cdbe0f5314ab6f  20-double-checks/1162-double-checks-white-move-19-062Zq.pdf
 5d32acbbd3f0c8e017f8a656bb890a051b2477df96178af97172d67d66372b86  20-double-checks/1163-double-checks-white-move-12-020iD.pdf
@@ -1260,7 +1260,7 @@ ca262b213f6c72db75701c9541febfd4df188015d6433c765acdf3ba27a5d8da  20-double-chec
 15c3a782c8e1edebcd593174a675024273cc6f441f3d05b99a748a21d35c6832  20-double-checks/1238-double-checks-black-move-42-0BJQ6.pdf
 dda4ad6069cbb50e5b0c59a3992a5f923c90f035a8d886ca33b47b48ac60a253  20-double-checks/1239-double-checks-white-move-34-07OUg.pdf
 5749ff6f728bdd7b74e15870bd7a8f627b93cdc0ecb356628fa9be570ee82b33  20-double-checks/1240-double-checks-white-move-24-063qZ.pdf
-02d0fb5a50c2df975f6f5c3c7b9dba9eba6a23c1c40088bbd779c49d3aaf679a  20-double-checks/README.md
+f9cf01c9d11de1b52a4b41839e83b907c345e02ec359cde888b8022a1c927e3b  20-double-checks/README.md
 c9adcfb238a7fef79bd82a9ec314f5f48a9f927798dbd4871c9a8a28c3e3d665  21-attraction-tactics/1241-attraction-tactics-white-move-30-0380K.pdf
 56594920bc0b994706873076572010c3a1d9faa58d0e48331230a51abfb08b63  21-attraction-tactics/1242-attraction-tactics-white-move-20-02nxc.pdf
 50d238175f282c9874478988e18b6cf18fb6d2185bbfb2395113997e232ce94b  21-attraction-tactics/1243-attraction-tactics-black-move-24-00rzv.pdf
@@ -1341,7 +1341,7 @@ c519c98e2106d3f99069ea40232728bcb4cb223cdd27c25fe048f1aa65caf738  21-attraction-
 8eb2a1870be88651f44c556d7cbded114da4f46f28b8d6499791c083c21c95f0  21-attraction-tactics/1318-attraction-tactics-white-move-24-013U2.pdf
 c628e1ac3002b808f9e95e68a18a1aafa3a6ecf4ee71d14c1c3085ba7abbd334  21-attraction-tactics/1319-attraction-tactics-white-move-25-03N7A.pdf
 4ff97e58560536487ab86e37ef00356b2254fa986ec7592c5e10c31fd3919366  21-attraction-tactics/1320-attraction-tactics-black-move-24-00uL7.pdf
-49516a16235db573dcc0feed23d7f9250d7c770be254c4a958984a034eab6993  21-attraction-tactics/README.md
+11487a4b505be222d3fee5536381a816ff37880f697f1eae1b757f19d9b6cb52  21-attraction-tactics/README.md
 f5fe7427c507d66d79118550189a751450e48eba122cd1c0cfb5284622ce8760  22-deflection-tactics/1321-deflection-tactics-black-move-40-01pgJ.pdf
 e03ee7019a47b4456e4b185012c7c501e86fc3b9ebd29a80199b5a4ec2bf28b3  22-deflection-tactics/1322-deflection-tactics-white-move-47-01Ie5.pdf
 6f8de5046662ff26528598db17e60d938b18a6af1a9733667c7bc4633ed8d1ba  22-deflection-tactics/1323-deflection-tactics-black-move-7-02CA5.pdf
@@ -1422,7 +1422,7 @@ b2309b2daffc634289043ef557689c68f00e8af2a3cffc7baf4508fb40449066  22-deflection-
 55634ab235a9966e4241091ca4ca205617168cf0f244cf8472509726ff90f2e5  22-deflection-tactics/1398-deflection-tactics-black-move-23-01YvD.pdf
 0bd151ab4cf395e3eb9f7359dffa996933f269641b4c16027fb8b91442dc1ce5  22-deflection-tactics/1399-deflection-tactics-white-move-11-00ZK8.pdf
 7000640f58b319f8bc702f95f9a173c06f23542343818ec4a14c62cfb2b20178  22-deflection-tactics/1400-deflection-tactics-black-move-7-01lBC.pdf
-8940648cbf8c0b915be2033d31dcf43001aecd120cffb7e2c05712914294e622  22-deflection-tactics/README.md
+1807dc9c34ab48bb13f8ccf608066e6d44b36c85887748d145f08f47e22cfe2f  22-deflection-tactics/README.md
 b7824f9ceeeb72258a0b34120c2deeae5b85a369d2449b19905f03831d252fb3  23-clearance-tactics/1401-clearance-tactics-white-move-25-01LlS.pdf
 fcad5339cc3a2e537c1fca9727badfa7bace81e4906c070370d45a76369ca34f  23-clearance-tactics/1402-clearance-tactics-white-move-25-04zl6.pdf
 cfd3480d750ec7c748ae02d9cd2d46040e3576da9c017a9c2796105ab10760cf  23-clearance-tactics/1403-clearance-tactics-black-move-59-00oYS.pdf
@@ -1503,7 +1503,7 @@ b74e4bfed478e87ae552ff97e2a419b61495f7e27a77e216ac7e9a01dd060012  23-clearance-t
 3597d3b59e7438326011ef0d75bb67a232b260ee66a1a917b27518a9c7adaa01  23-clearance-tactics/1478-clearance-tactics-white-move-21-04Jl6.pdf
 c0cdd545596bfc3999e9781b0a5789189ecb7a9adadeea7c223416c2f7472625  23-clearance-tactics/1479-clearance-tactics-white-move-60-03NfT.pdf
 5d4486fbb46cc575872d078fed034df7e28a2f2475c2ff244319388c08fd53e6  23-clearance-tactics/1480-clearance-tactics-white-move-27-01StO.pdf
-1de71d712f56dd3e2908fb96ea9cb26ae01c1443cb810172b27a5e3d024ffbf3  23-clearance-tactics/README.md
+cf56e542ec45c1157d5948500c6775b0e3f34db8981d47d747c0b556bf0ce1be  23-clearance-tactics/README.md
 d6d4c86828075cca85cc817ee4825ca95f3a1c70f6ae3e933b59c0bf5e54e667  24-interference-tactics/1481-interference-tactics-black-move-39-03H2V.pdf
 29d2d7bcc1ad4a6355b73fe8dc30ad0adaa8f656e015a08640b3f2c98744d825  24-interference-tactics/1482-interference-tactics-white-move-37-08SOm.pdf
 7290961a7abb40036210a7c3ad5670af1cd27fb0e28a0cb38ba0d182ed636d77  24-interference-tactics/1483-interference-tactics-white-move-36-01jvC.pdf
@@ -1584,7 +1584,7 @@ db56d836c6a30fa46f977075844fe529a1a7a81b477c771c797480be31a2b9cd  24-interferenc
 096eb340b2167825d8a58b63e31737fdb4dccb15fa1dd98ffc2a97d989405a41  24-interference-tactics/1558-interference-tactics-white-move-41-052ot.pdf
 3fcb5a16835d61a1ff1b5d12084acc894edc9f1ba3dbba13420ff35a882d5c8a  24-interference-tactics/1559-interference-tactics-white-move-40-01A5W.pdf
 ef1152eba0421bd69ed6d82f2505c1bc3ede06ff9aa50b37f62ac7c6c869df55  24-interference-tactics/1560-interference-tactics-white-move-21-0FKHR.pdf
-405a9347fdfb8b151246b85ff4abcec3cdb1f998465db2e1ac159f6c2fcb2209  24-interference-tactics/README.md
+531326155bce08b22d3de4357a3be8537f4486775a52256001df309a4c017a94  24-interference-tactics/README.md
 7871fb8a49dc61df54d8008309525ba4e4e76f2fc7ab70a31354f4f14ceca079  25-intermediate-moves/1561-intermediate-moves-white-move-10-02X7P.pdf
 59fc0394f34da45225feb3b23566b4989beda365f79a6fa18d89f6dbb10fb802  25-intermediate-moves/1562-intermediate-moves-black-move-9-00Htd.pdf
 0021f9ceae68fe5c883ae06e194e4d3c080d3dcd474f8f21b4cadd948c10f3a7  25-intermediate-moves/1563-intermediate-moves-black-move-14-01zpX.pdf
@@ -1665,7 +1665,7 @@ e61e13f51e04283dd843efd282a53bc4d7518329f842f94056791b32cc0b1111  25-intermediat
 350ffc68cdb6e6bc6276ab53b38c69f0a9ecf888371a73c6ae7decf34bf2f20d  25-intermediate-moves/1638-intermediate-moves-black-move-24-00xrk.pdf
 a8deddf5296e8709aca5ceea0c82c426762c447072d77f1665e51def76b69239  25-intermediate-moves/1639-intermediate-moves-black-move-17-00Pgk.pdf
 5a929fec786b1d1b1dd6a65d8eb9c8335c91b89f6e130454e8a7388510efcd55  25-intermediate-moves/1640-intermediate-moves-black-move-30-06nUb.pdf
-c250d13cd3b4c20a482b0603a4da0b6790826415396f48a1c73b934698e97033  25-intermediate-moves/README.md
+6db6df2d34b4085f8eedaf21becf6a4e7c1171cd983c2e1a70654e2de29dbd0a  25-intermediate-moves/README.md
 cba5185dfa8a120f9c1457231b6b6d8bdff7b7f6c89c704be9c61b9c98acd285  26-loose-piece-tactics/1641-loose-piece-tactics-black-move-27-021cG.pdf
 5acbbac8c7e215b124ffbc6f809a51a02f4635c0f3257485a7597eef8ceb679a  26-loose-piece-tactics/1642-loose-piece-tactics-black-move-24-025Et.pdf
 31716b96fd4fafc95e8bfa8d60d70ebd2957b83bc422c94d8a20435d39435b6b  26-loose-piece-tactics/1643-loose-piece-tactics-white-move-25-02Or9.pdf
@@ -1746,7 +1746,7 @@ d3d848a5e7ab95ce8126f1f912a9f846ae121cdf4b685dd8ec69426307baa7bc  26-loose-piece
 37ce5901b591e31ddc12edbf16f607fb45c526b154576110e5a8385569cd15b3  26-loose-piece-tactics/1718-loose-piece-tactics-white-move-45-0125B.pdf
 8b7046eff226fe380b38f86abe8bb9cea6c18fa6571db9258abdb1da1f51ead1  26-loose-piece-tactics/1719-loose-piece-tactics-black-move-25-01aC9.pdf
 de7d448d704eca3b9593480c3b6b82fb39f388c6ff69668879d413a7697dd07d  26-loose-piece-tactics/1720-loose-piece-tactics-white-move-33-026sh.pdf
-ea254c3d8aedb9eedde8e62c578dc48399e6b047c1da47135e44e5e461ca1810  26-loose-piece-tactics/README.md
+4e654aff77f300708483b9b5a22252900de63ff83e58bb5bf31b24173e80beec  26-loose-piece-tactics/README.md
 766e01685970c0ca27108e97ee1ef0fddf023f2feddd9233eac82d99031be2fd  27-trapping-a-piece/1721-trapping-a-piece-white-move-38-06Eew.pdf
 a7959978e7e0b81855e45d10c3597e83fb4c87ae1a67ae5e964f309316d187be  27-trapping-a-piece/1722-trapping-a-piece-white-move-40-02utb.pdf
 4a5e75f0a58039d6dc90f0a8d3806cd813ecf919a1f3c78e2c3a9b3728e1599a  27-trapping-a-piece/1723-trapping-a-piece-black-move-10-01Bmi.pdf
@@ -1827,7 +1827,7 @@ e6311f9712ef2ae481d289da78d7ea02168198d814f7c42338d2acabeacf568b  27-trapping-a-
 fadb3ba2a9a1c16bd5b069883b6fa789d59bf3645c462d96a2ea99526928bb7b  27-trapping-a-piece/1798-trapping-a-piece-white-move-29-05KTd.pdf
 0205340ddca85d94789d17dd07deaf28d9a7d6ceb8ba0820c615363dd63486f6  27-trapping-a-piece/1799-trapping-a-piece-white-move-19-03Cdz.pdf
 f7f4e9a32316b29c08211420a6369fd1049c19004d4faecec4e999e9036eb5b9  27-trapping-a-piece/1800-trapping-a-piece-white-move-13-04Lp0.pdf
-31864a40d12d5cc46458c793f3f967964e5d6cf28492e900c4652c81c3e357a8  27-trapping-a-piece/README.md
+38349c3d577fee3a6f2b1aa87b6d2a3d9858543f6b25f2c9dd3d92847756ff4d  27-trapping-a-piece/README.md
 9f94c6728e34e387f2d65d81779badbf4c1512bf2ae28ea86b9388e07c10f044  28-exposed-king-tactics/1801-exposed-king-tactics-black-move-66-04f0R.pdf
 15978a91305a98796123239194c16da1e8c5d65022e14e3ba0c42ffd158436de  28-exposed-king-tactics/1802-exposed-king-tactics-white-move-27-04ULx.pdf
 3e1391e07ff9b36a5d7f29f3892bc6553096b3d9a55765fbb7f1b04ea95d0612  28-exposed-king-tactics/1803-exposed-king-tactics-white-move-26-02Rqq.pdf
@@ -1908,7 +1908,7 @@ aca68fc84ffd7c616db7cdc75646f58bf802e60b193e96ba54e613d8e37504e2  28-exposed-kin
 7b2e06eba49f8abd518531909b95a1fe0c96dd6c84f70edbbc0ca67fb7b5d54a  28-exposed-king-tactics/1878-exposed-king-tactics-white-move-30-033zG.pdf
 98ac5e1b2703747e7c0d2f64915adf332805665dbdf71123dfe2739b463cfd00  28-exposed-king-tactics/1879-exposed-king-tactics-black-move-30-00gEe.pdf
 4402076977ad5e959ee0a7468cedc70d5c350bcc62694bcc57a0a2305e59952f  28-exposed-king-tactics/1880-exposed-king-tactics-black-move-61-03mcu.pdf
-685c0200b024ef224e849f7c69e884d3712c8cf2077c0cf044cee715343175df  28-exposed-king-tactics/README.md
+79bba2d8cb9336123df57f2199dc744b1d2a179662a3870fbd535a1f6c4f40a5  28-exposed-king-tactics/README.md
 e0f1af8ee39eaa4d6fab95ada6956a855220042f8ecf30f3311955eef36191a4  29-kingside-attacks/1881-kingside-attacks-black-move-16-01X4O.pdf
 c48703e3f4d7977af9d18f9d5802d78b29c129f5d813bada48b545b8e24eeac4  29-kingside-attacks/1882-kingside-attacks-black-move-18-00mJq.pdf
 6dadc41c424ba803f133cd4d2516fe0daea0e770dddc4052f9aceb617a312f3d  29-kingside-attacks/1883-kingside-attacks-white-move-27-00bnX.pdf
@@ -1989,7 +1989,7 @@ e2576c1ff51ebf1b0d9efed7260c9749fb7cff32e9830336f98c8ed79a20960e  29-kingside-at
 c5bfdda9adce3ad07a3a4bbfe1c777275379ae016ae88fe530a7df753cdc1660  29-kingside-attacks/1958-kingside-attacks-white-move-25-0091A.pdf
 6b65e7e0566b6f4d0525088125b79fa5cdb8b82fd9ad1abf26166ca8d19e162b  29-kingside-attacks/1959-kingside-attacks-white-move-20-01aP9.pdf
 bda1e2b7f7638e39367221fb6242291972f3bf20dc45718c13c7be1767a1972b  29-kingside-attacks/1960-kingside-attacks-black-move-16-0072T.pdf
-20ee5d674a01b04fb4de83d72722867c66585753131f2d1fe62ea20843852267  29-kingside-attacks/README.md
+5b5215c9c84d0cdf0594b877c92c42dda478b151b5324a70c12461ba3c726865  29-kingside-attacks/README.md
 e4de0b31adb7cfec521671234e61743ffaf47b78c83ca173f40fe0cc17334cb9  30-queenside-attacks/1961-queenside-attacks-black-move-14-04Ewo.pdf
 ad985eeddb3f1c0ceec25ad2b3b44547d39ed542e41be6071b106f822637d1b5  30-queenside-attacks/1962-queenside-attacks-black-move-11-01BKZ.pdf
 e06b58876c0eda387326a9871ee012b60d98b8b64fa30dd0e723a48540b2203a  30-queenside-attacks/1963-queenside-attacks-black-move-15-03aeC.pdf
@@ -2070,7 +2070,7 @@ e741726584f36738cb7c364946aac0c9941921a0e0bd842a3c8646fb5007b752  30-queenside-a
 386f6287e6beee6483fc364f29009ca43b6c6e0b020e3236f4d7dc3b2e48ba60  30-queenside-attacks/2038-queenside-attacks-white-move-20-023gY.pdf
 56e8fa4e78d5b638fe651bb7e2bcce88ef4fdd0b3bcd2974e1d317388e66fead  30-queenside-attacks/2039-queenside-attacks-black-move-16-04JOU.pdf
 7277445bdc622cd976bd1363ac8a385cf72d9a8f157c9a0eb069bd128c497555  30-queenside-attacks/2040-queenside-attacks-black-move-26-02S2A.pdf
-176212876fcf8a3ea9b01f425b4f1008f99f555ca7fec53b745f0aa39abbed0a  30-queenside-attacks/README.md
+ff403c526cadc1869238fa79c8751532ddce55ae3fd8c5079bae103754a6629f  30-queenside-attacks/README.md
 abc8443bb78ef4536b78b3146669ea8c3c9ed3f723fe7e0bff3a6d57d8737f1c  31-calculated-sacrifices/2041-calculated-sacrifices-black-move-29-02cu7.pdf
 e42f93792710294953c9eecea1b5ec8d8a94ba9f407211ea9f8bff6fdd127c8f  31-calculated-sacrifices/2042-calculated-sacrifices-white-move-33-01wS5.pdf
 a1e48f36113f9a26c357b3b90e6eafe6dbd7f1fb920d89060aa5956e087d9a9d  31-calculated-sacrifices/2043-calculated-sacrifices-white-move-45-00ZPK.pdf
@@ -2151,7 +2151,7 @@ af5e5bd75ffb2e227e0c52e85ccf5e78ea0497cd0ba5980f19868d4dba6cfce9  31-calculated-
 cafb9ec3a9baf8769fba9d77adea3c05b9614c7fdb70792b7f29d4ae674ab8e5  31-calculated-sacrifices/2118-calculated-sacrifices-black-move-27-02Yz2.pdf
 efce44873ac64409044134322f2bb9073eb5968a85f84a4cdf120dd750016e69  31-calculated-sacrifices/2119-calculated-sacrifices-black-move-31-00UQj.pdf
 93c81296f51a84a42e8f475a3b0a93d7d957449241ae76d3e8e8e5d1d3664a5b  31-calculated-sacrifices/2120-calculated-sacrifices-white-move-12-02YPX.pdf
-c129c69888fabd0a7207a39a4641d92dd9a8763e2564f808960a31cd1616e2d0  31-calculated-sacrifices/README.md
+ceebdc81408db4920874779689d849c2889152426287186c15ad560493c0262b  31-calculated-sacrifices/README.md
 16f720714c2bc27af8d957aa248637f82abf8dd6439123a9dcab6fbfd0b2de19  32-quiet-tactical-moves/2121-quiet-tactical-moves-black-move-56-02tM3.pdf
 c23a96ec96333bba193225fd2d9369965e54a0c456d3afbd5af24fcc4add359a  32-quiet-tactical-moves/2122-quiet-tactical-moves-white-move-58-00MWz.pdf
 bc6aa3d63c62c34b05cf6cebeeb6dbed0627a8e1c8ac17acfe536fb29c25e05d  32-quiet-tactical-moves/2123-quiet-tactical-moves-black-move-46-02vy3.pdf
@@ -2232,7 +2232,7 @@ a3b70bfb1c7be714267bdebcd4f6223c697200a7b0fada7987083c1ce3b1c043  32-quiet-tacti
 3c7011b156228bdd652ad70fc408def274dbceff824032965ecf4d14d5dc0c9c  32-quiet-tactical-moves/2198-quiet-tactical-moves-white-move-40-00vCE.pdf
 6300e696c20b71901164cd78075aa47ad235b1eca5ac270efbc845554077ac10  32-quiet-tactical-moves/2199-quiet-tactical-moves-white-move-27-03LTE.pdf
 8ddf4d8cf12f604a5659a21002df3aa83f56da7e6a0a22060249f63699845336  32-quiet-tactical-moves/2200-quiet-tactical-moves-white-move-44-02cZW.pdf
-abf45e06f4b088a5aa579e1f6c1dc1b9328f4162fdc3546dea22bb77d86c7c9e  32-quiet-tactical-moves/README.md
+8d52cbc74cc5357a0813db1af9507ae36e56927a772b54c1af5e7126bcb32980  32-quiet-tactical-moves/README.md
 817783d6a4114f866012077c9631697072e6c5bfca607bff7f86269ba3a5ed96  33-active-defensive-resources/2201-active-defensive-resources-white-move-32-018KD.pdf
 d9ec0a7844f98ffab7c3410561aef394610e44f6565c8945719c2f15bb9a0b8b  33-active-defensive-resources/2202-active-defensive-resources-black-move-32-00ZSZ.pdf
 43cbb8f0b04bb6759662f316a8cf4d96b79936021cf5a2d389a381d71a88175c  33-active-defensive-resources/2203-active-defensive-resources-white-move-69-01ghr.pdf
@@ -2313,7 +2313,7 @@ ed505b718311c51094b09971d84cec61b0f8ae791ce453eff954f3c765c1c9d9  33-active-defe
 5dbda0a32197a8d17b07816779396f62b9fbad3de002599a8ed6754b60e35a8a  33-active-defensive-resources/2278-active-defensive-resources-white-move-25-01T3Y.pdf
 0d4938bcc596eec527db8564f297950f23ae2e9315f3d5aa882dea6dd9388564  33-active-defensive-resources/2279-active-defensive-resources-black-move-18-01GHp.pdf
 d48709207033091d97eb42eeaf296b49dc701692e7253a22eff84cc572a82aca  33-active-defensive-resources/2280-active-defensive-resources-white-move-20-004Ys.pdf
-46077377ff7f86b26faecc826ff2d70f670b47a0ac5a71d9cbeb730ffeb5b7ea  33-active-defensive-resources/README.md
+9ecada0455fb959bde0091bfea1153a34449d3677da56583be2e4864826c0bb9  33-active-defensive-resources/README.md
 e26f8fc9e1b821b78e0e4fdc62aa930dafca36853768955ea3fc1e0ae065944b  34-capture-the-defender/2281-capture-the-defender-white-move-28-05GU4.pdf
 2dc4758d1ca64d271727dc12d34f15dfe607d7b3cf99668229cb91b144282d79  34-capture-the-defender/2282-capture-the-defender-white-move-35-05mhB.pdf
 e644c685d2ad7c572bafeb001a5ba670010cb3d797e17aa4cf77e2dc133b52a6  34-capture-the-defender/2283-capture-the-defender-black-move-17-0AGou.pdf
@@ -2394,7 +2394,7 @@ c57911cc9379d52ab8b12a15b2ed3237a9e36dbcf3a8ee10a19aa6ae0aa21545  34-capture-the
 90a3e218dd272a0b5eba6dfcd3a78f4197ff3dfb909a25ac11407a602d0f5472  34-capture-the-defender/2358-capture-the-defender-black-move-18-04iGH.pdf
 37c6e64c6bf7b2ed8dd32c32d5da77be91734e77a2adea56561e11eec77a0ea8  34-capture-the-defender/2359-capture-the-defender-black-move-21-09sDb.pdf
 27cdb459ba6bae078ccc88347d263e2cac6779d23f22219d488a9a8274cc6bdc  34-capture-the-defender/2360-capture-the-defender-black-move-26-0Ah3O.pdf
-d4c9dc00e925d5e7eb5983bec55d34b3bb5f26e94bdfd686cf31e8efb367ce03  34-capture-the-defender/README.md
+b1e35546f8a6feb4e1068206f8ce4904ae3188d5f1f151dcd301f3419557fc93  34-capture-the-defender/README.md
 9e3838cedb449ac58b4042d0c3f05ef2b3e1f72055a76f2dfd9476d5055b6f63  35-promotion-combinations/2361-promotion-combinations-white-move-57-02jRz.pdf
 f727d5cbc05b00206c27748c92b41164109cd90d901b02797b93710c1fba7ab8  35-promotion-combinations/2362-promotion-combinations-white-move-45-03ZoY.pdf
 7332d46409be95969ecc4c2927860982c09e48bf32dc3d9cd022d3a2fd6f0555  35-promotion-combinations/2363-promotion-combinations-black-move-55-05cZt.pdf
@@ -2475,7 +2475,7 @@ d3afaa345d4925fcf8d1d988357ab5912f2378f381a7282c4267bcfd38868ba2  35-promotion-c
 0c41e5f1001cc42e9c56cc70d15b3f757abd02ef9e6bb36934edf2a93aeb7144  35-promotion-combinations/2438-promotion-combinations-black-move-46-03DEb.pdf
 8d2b53e95235b8846c409064b17d5680f6385c9c546326037d108d63a8185adf  35-promotion-combinations/2439-promotion-combinations-black-move-42-03wfZ.pdf
 8483b47cb2ac1c0062de263b38bf989115723ff8c706f9eb266f2cc3bb1a97ba  35-promotion-combinations/2440-promotion-combinations-white-move-59-00tHm.pdf
-d54e8cac2be45e813b93c06858524ffbe4acdc71d44e6823d8abbd1181d19909  35-promotion-combinations/README.md
+7d0c04fe0e7f1745c290666680342e3d42d198704eb88f77b0f100c0276dcf34  35-promotion-combinations/README.md
 a8cd7550f09b648b1ab506777f53d3243c9c63f0763fe08279c81fa7e8cb3a6c  36-advanced-pawn-tactics/2441-advanced-pawn-tactics-black-move-55-015Ft.pdf
 dac993a8bc281e6496bacd61350448baa83968a04ed6ead8d50606b2447126fa  36-advanced-pawn-tactics/2442-advanced-pawn-tactics-black-move-56-03lYh.pdf
 0231bd0f8435d666c92691496a7bef01eb438083bf1ed4fcb50780573d935c2e  36-advanced-pawn-tactics/2443-advanced-pawn-tactics-white-move-47-03zZy.pdf
@@ -2556,7 +2556,7 @@ cdf6c1499fc0cac38af2cd623c03020cc2adc215c7b926240605fdc6b20041ac  36-advanced-pa
 7541dbec75262a34a7fb0bf410f9872621ad2cf2af723a2e2ef4d1cb70289aa4  36-advanced-pawn-tactics/2518-advanced-pawn-tactics-white-move-38-047ri.pdf
 b4d5f7f7d2206b22f00c5dac633b7edb9887522ace4780d01a090043fc447254  36-advanced-pawn-tactics/2519-advanced-pawn-tactics-black-move-24-01Tpw.pdf
 2ad84c0076699626e58b7648f13bdc6278056d44af3403e77aecfa8ce0b0bcaa  36-advanced-pawn-tactics/2520-advanced-pawn-tactics-white-move-28-0254M.pdf
-caacf48814ea090045954e1f2fa9fe9f542e65d4da3c1e7982767220b2824c40  36-advanced-pawn-tactics/README.md
+54cf5883378fa22d449c88ffca47ab933736b0425923753786c13ca9222caf91  36-advanced-pawn-tactics/README.md
 ef5ca326674585ff606342bab5fcf460b268616a24923c4aceff3be72ea0fbff  37-rook-ending-tactics/2521-rook-ending-tactics-white-move-46-01xBJ.pdf
 03ebf2c03c955268f6ee6dd059a28f506d804d9b156042eed8c5c18ad26c5d99  37-rook-ending-tactics/2522-rook-ending-tactics-black-move-48-01qVt.pdf
 ac10b1a84c7acb94a1b2e40227b4ec8fea15c79353bcbb85a6d613ee7f8f34aa  37-rook-ending-tactics/2523-rook-ending-tactics-black-move-83-026Uy.pdf
@@ -2637,7 +2637,7 @@ c4db9609669b033420c1fb6f5841e20952b69896e04f2b798c10d4004d14508a  37-rook-ending
 3fb971c869699f80e9667a33e16ca216c278f5a8185fb85aed407ca881dcd3e7  37-rook-ending-tactics/2598-rook-ending-tactics-black-move-52-01e8p.pdf
 7ff2467894c244556cd1b24eb63eda5b99403c9c50985e3ffdabf55d5be9e988  37-rook-ending-tactics/2599-rook-ending-tactics-black-move-46-02lUT.pdf
 92ed9fd9487133d8ea34848a8629725ecee87cc136bd9667e8d4c80dc93aa564  37-rook-ending-tactics/2600-rook-ending-tactics-black-move-50-02gGn.pdf
-f65a6ed17d0292bf66ad0217003d502245095eed1ede2dfe055eddc77236c74c  37-rook-ending-tactics/README.md
+7d445ec70d95bdc051b9252b27eea3d38f1c2008d9f33ce7169f0bce688b7046  37-rook-ending-tactics/README.md
 0bf12436f1b5cba77074e84ce3a2ba10e6c682b58451044c8418ffef58a6f5b4  38-pawn-ending-calculation/2601-pawn-ending-calculation-white-move-48-00aU5.pdf
 d113243809a2f1dfae31b100ba86f4232c7a5f5deb65852f6c94dbb5490993a3  38-pawn-ending-calculation/2602-pawn-ending-calculation-black-move-50-02P6P.pdf
 c06c4335a253357491aa82170a01f7365ff41cdfa185ef534e94572b496199d6  38-pawn-ending-calculation/2603-pawn-ending-calculation-black-move-48-01tUB.pdf
@@ -2718,7 +2718,7 @@ c98adc3efd9f1356bdff80451d588ff62d6fa351f1c8ab9ce781edfc2ba13c6f  38-pawn-ending
 7c9f50c45edf15a4e982e3e4d3e870987826a61fc6913f3e997522a93e0ee57f  38-pawn-ending-calculation/2678-pawn-ending-calculation-white-move-47-02Ef9.pdf
 f98a17036b37550dbfb753e6d543404eb2a37e05adb3573be12bf60be2621a5c  38-pawn-ending-calculation/2679-pawn-ending-calculation-black-move-39-00H2L.pdf
 fabec6270f332c9848345c9aa183e156543ef76eab4e83897ab464b5ba7ac7b3  38-pawn-ending-calculation/2680-pawn-ending-calculation-white-move-51-01qiV.pdf
-97b39407116fcb074019d0be5403920960f08ae4f2a5b62856c58e019de5de59  38-pawn-ending-calculation/README.md
+2d2f46bdbf64b9122db7f859ec1b619e4639209829a2cd5734db17227d3f366a  38-pawn-ending-calculation/README.md
 1ca6b37f0a933a4ae496a66c95a7c6eb9846f311abb8f88a6381bf3825c925b1  39-bishop-ending-decisions/2681-bishop-ending-decisions-white-move-50-03iwX.pdf
 f0c7e1391d8b952b4dfd7ffbe148bc2518814905073a1f49117d18b253e7509c  39-bishop-ending-decisions/2682-bishop-ending-decisions-black-move-28-02QUU.pdf
 a0f78cc75044beb0aab792c8a86deeb8b83109e12f43f4042822e90031c5814a  39-bishop-ending-decisions/2683-bishop-ending-decisions-white-move-59-04ttV.pdf
@@ -2799,7 +2799,7 @@ cdc947290da24450f73778b53d91ab785e62a31a295f88e3d16e8d0aba9c7771  39-bishop-endi
 e61164af26b0f54c16085f0142a2068ca577a8c29f5907d628bed023c6141659  39-bishop-ending-decisions/2758-bishop-ending-decisions-white-move-42-024N7.pdf
 079d5746acd2e8a3198893469a9cb8291ee3952ab540440144b189ed96d3356e  39-bishop-ending-decisions/2759-bishop-ending-decisions-white-move-33-03JLw.pdf
 de32580fe04211bca7ad29562679b8a4eecf5a109ca344d8d2a27d06ac047f6e  39-bishop-ending-decisions/2760-bishop-ending-decisions-black-move-40-00sQw.pdf
-d076bd31afe0d26c0a5b3f89989a039359138c659b2fee225a032108c7c9638b  39-bishop-ending-decisions/README.md
+667902b962dba805ad8a3c74afec1e0efeaaa581768d2ab48610a82ebb613897  39-bishop-ending-decisions/README.md
 a7bc98792b3bdb21c3f4b55219114e5328dd017db0130804bcc78da4314fd730  40-knight-ending-routes/2761-knight-ending-routes-white-move-57-05syF.pdf
 b8821383e3da8b4f5a926f89ab27fae387564df61a6b1e9da4faecde606c9268  40-knight-ending-routes/2762-knight-ending-routes-white-move-54-06X4V.pdf
 aecde60106604c1ac2c4c14e4bb4fa60c013bff581f86e24a923236cde079ba8  40-knight-ending-routes/2763-knight-ending-routes-white-move-38-00HIV.pdf
@@ -2880,7 +2880,7 @@ a27956e0280fe160f48bc140d8d1656b2660d4e978322a00d5eb8f100f1d2f83  40-knight-endi
 acebb8571a926080c1ea5af84a2ae96b3c14f620bf88fdc6c45cd7b71c103e2e  40-knight-ending-routes/2838-knight-ending-routes-black-move-58-00niA.pdf
 1da53849630797ffafd02da43ea7571aed7156c8dbc46befdb00b71573706cef  40-knight-ending-routes/2839-knight-ending-routes-black-move-59-03kXN.pdf
 f11dc620d1c73ce0d5b63e09fecf09891f16e9cc2d87c50061d8aac9009ae65c  40-knight-ending-routes/2840-knight-ending-routes-black-move-62-005ws.pdf
-698c973add24250082b3cacbd21133b72bf697197da3b7415e44ee9af8b7551b  40-knight-ending-routes/README.md
+3c20092a55f379e890527c826c6727b02ba0967dda1b6ee033e442bbecbed757  40-knight-ending-routes/README.md
 655f322677e87f365763a75f040555bad92f8edf592354e55b6e40e2149bc3bc  41-queen-ending-tactics/2841-queen-ending-tactics-white-move-64-070Zi.pdf
 28c142374a5c9db22bd628d91d0109c57bdbdda896e9182eea9d4f4143bc6b3e  41-queen-ending-tactics/2842-queen-ending-tactics-white-move-58-054YX.pdf
 026af46179fcda42f2e52f8e7758a6fabbbd6a5ab3aba5dac7e65a2632b63155  41-queen-ending-tactics/2843-queen-ending-tactics-white-move-57-04VTC.pdf
@@ -2961,7 +2961,7 @@ a271b4d67b249606c91c65ead8154cc4d6bd58f398890c2394769ec8695c9c44  41-queen-endin
 0798751ac8f846b783e4460952772867fe85d134fc16c2ddb32f6ce88e47927a  41-queen-ending-tactics/2918-queen-ending-tactics-white-move-45-02M9r.pdf
 32d2aa12a03a3d6c81277f237b0da49121ee9a05db04496055fa593a707f2cb7  41-queen-ending-tactics/2919-queen-ending-tactics-white-move-35-03VwY.pdf
 4759d69075b9af401001f5ef91eb263d065460070b60322b501990f695649eb2  41-queen-ending-tactics/2920-queen-ending-tactics-black-move-41-06H5H.pdf
-5b4028ebe6921183dbe74a87d3b9261db47fb10f0777a075a76f1a0d57d1078c  41-queen-ending-tactics/README.md
+5a5bab3fe3dfb4344d6f4a9cd7682c7e50a9bec59e5b6afcfbce013a158603eb  41-queen-ending-tactics/README.md
 662d649296d982a68958966193a3368e5400f332d9e2a5b603fa67fbad0e44c5  42-queen-and-rook-endings/2921-queen-and-rook-endings-black-move-55-02Qrx.pdf
 76cc7c1c9975f2e32538547730f9c544628dbd3a6be0c60975098a211e8ca2aa  42-queen-and-rook-endings/2922-queen-and-rook-endings-white-move-36-08p4U.pdf
 d9b51bdfa9ce2cc237f7fdc44570d75e1ca6ae769b1e9ad55f3f426600f53990  42-queen-and-rook-endings/2923-queen-and-rook-endings-black-move-38-02AZ6.pdf
@@ -3042,18 +3042,18 @@ fd6b32fd76c6350bcdb7711dc0c6649116dd7a034a190e030661cc2e150403e6  42-queen-and-r
 8e68d5d6a652747e06150cec62a750c584cbf3484aa3353bab8c3d2e727a9a8e  42-queen-and-rook-endings/2998-queen-and-rook-endings-white-move-35-01FSC.pdf
 8e6a8768e46dd6dc78c372522313f472256ae80fbb476a8b14a51dc65e0ae116  42-queen-and-rook-endings/2999-queen-and-rook-endings-black-move-32-09QBO.pdf
 74da1625a16bf2e205ddb6f439f22d33a98b39b76019edc2fc3f0ced1ff8d2e6  42-queen-and-rook-endings/3000-queen-and-rook-endings-black-move-50-08wGR.pdf
-6b960c4167f9674d2c5d353f1007182968e4aeaf01cf9ff4166a512dca2c8de6  42-queen-and-rook-endings/README.md
-53c2e24289c527a59535a96574afd5aa0720734aebff420b12fb0686db4de52d  catalog.json
-999177e0290c76d1f06b33a30318074f3be7f07d87dedbd5002dcb591e7f7d4b  index.html
-c4ee6fe4098b151eb54c0907b72f8b1966ad0997d5b692a0327a353f219b467d  QUALITY.md
-661988517d2c8514c416b1a45c6948bee061b1a5cb4bbdf5c04f3a909a2f55e8  README.md
-567f637accb1980c2c470ae26101a4d667684e677fadcfce4a7b658a9b6a9d93  source/build_collection.py
+8b9385330e662349665163a90818bf6c9f878e69170a239a7eb80e67834aac40  42-queen-and-rook-endings/README.md
+d048b49e10827b79c48874d747eb50bcc6838d26bd102148a56b81116a43693e  catalog.json
+7439548e441fcf281192421ecfa022c905bf874ed720c2bae416cdcf34be01a1  index.html
+d2e668fe4437a1055224cace08c65a1b40ef318f812be633b51de73a46ec103f  QUALITY.md
+a4c23d55409a448a651c6521b863f6597426c8d9e449511fe1875734894871ba  README.md
+399f125b4d1081f80a90e55a8bd372bfb6609b437a1f6977efa63eaad8d60fd0  source/build_collection.py
 0624611be353893d7d812196b521eeb4264e4bd9de3fbd6cf6e8e33c859232a4  source/core_lessons.py
-f4d26ce8c671bfd5c4dc3071ae2cc3fec95f306c60cfa46ddbc6f2acaefd4991  source/engine-audit.json
-5a2a39f1d55c974bd03ca6bda2bfd769ce4f3c7879314a641d5204430c3ee354  source/puzzles.json
-0164aeffc36c8765bed15414d61790a38c7f639e15d6118ad8501d018616c95e  source/README.md
-874041d6d90dfbd4f46fdec08343ebbaabc1ff488bb9d4a5951bebb77ddd5b6c  source/requirements.txt
+3245f3db3045075069d08488f814f53dc26c61616054bedee57e1411b0a337bf  source/engine-audit.json
+4fbf490217a94591aa7f874b8eec04d67739a7571b4060365728aa8f5659564e  source/puzzles.json
+920e8f011f3829ad918bfc86c0b719e153ef5874d39d71bb7d5b6cdca1836ade  source/README.md
+2c40a2eb85600e2b9778543e416c1a6c7ccfcdfbc7c079428bfb279d7d2e0473  source/requirements.txt
 c9e957505fe3c232a1ce0c9930ca1c02b47d19ca6f63d6f2b0195ca5e5aaf040  source/themes.py
-b8416ffdafbde7d5783f0f252e5d0282664fc8c11ae6b06cb79789cce07a6f3a  SOURCES.md
-54e21344524297cc0dd2b4f8aaad01aa340c5dcd9fc224d6c202dafeaaddfccf  THIRD_PARTY_NOTICES.md
-f0fcc4cbdc1bf6b9d02d1f8c372ccaf980544b17fda4941f1095fe6018bc5ac0  validation.json
+2aba8fe5aa5f53723160994b6671cf1dccd78aa7c194bd0fad636c68090e282a  SOURCES.md
+2156c8688b97ee7cf7f8dc2b60b6b6bce6364e82413c4bbc757ab26119ee056e  THIRD_PARTY_NOTICES.md
+f2fdae7948221f34e59b23f5f128999e6c8e290a4b35af694c47a55aad40a12f  validation.json
