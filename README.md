@@ -2,7 +2,7 @@
 
 **3,000 meaningful one-page chess lessons, organized in 42 chapters.**
 
-Open **[index.html](index.html)** locally for searchable browsing. On GitHub, use the chapter links below; GitHub displays HTML source rather than running this local index. Each concept chapter contains 20 PDFs; each practice chapter contains 80. No PDF folder has more than 99 files.
+**[Read and search all 3,000 lessons online](https://1d42c4.github.io/chess-keys/).** To study offline, download the repository, extract it, and open **[index.html](index.html)**. The chapter links below also open individual PDFs on GitHub. Each concept chapter contains 20 PDFs; each practice chapter contains 80. No PDF folder has more than 99 files.
 
 ## Start here
 
@@ -75,3 +75,7 @@ These are short lessons, not claims that 3,000 unrelated chess principles exist.
 - `source/`: original prose, selected public-domain position data, and the PDF builder.
 
 No account or internet connection is required to read downloaded PDFs. Lichess source links require an internet connection.
+
+## Website publishing
+
+GitHub Pages publishes the `main` branch from the repository root. `.nojekyll` preserves the static index and PDF paths. Updates pushed to `main` are deployed automatically. The site uses no external JavaScript dependencies, and the downloaded index also works offline.
